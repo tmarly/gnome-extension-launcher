@@ -1,0 +1,9 @@
+{
+  "name": "Gnome Launcher",
+  "description": "Display a menu in order to launch / execute applications, open ssh connections, etc... This is an adaptation of SSHPlus from Anil Gulecha.",
+  "uuid": "gnome-launcher@tmarly.github.com",
+  "version": 1,
+  "shell-version": [
+    "3.36"
+  ]
+}
