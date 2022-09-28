@@ -191,11 +191,12 @@ var LauncherMenu = class LauncherMenu extends PanelMenu.Button {
 }
 
 // Compatibility with gnome-shell >= 3.32
-if (SHELL_MINOR > 30) {
+// (commented because this test does not work on Ubuntu 22.04)
+//if (SHELL_MINOR > 30) {
     LauncherMenu = GObject.registerClass(
       {GTypeName: 'LauncherMenu'},
       LauncherMenu
     );
-}
+//}
 
 

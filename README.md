@@ -7,7 +7,7 @@ This is an adaptation of SSHPlus from Anil Gulecha.
 
 ![terminal](./.media/gnome-launcher.png)
 
-Note: Works on Ubuntu 20.04
+Note: Works on Ubuntu 20.04 and 22.04
 
 Installation
 ------------

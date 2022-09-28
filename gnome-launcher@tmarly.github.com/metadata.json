@@ -4,6 +4,9 @@
   "uuid": "gnome-launcher@tmarly.github.com",
   "version": 1,
   "shell-version": [
-    "3.36"
+    "3.36",
+    "40",
+    "41",
+    "42"
   ]
 }
