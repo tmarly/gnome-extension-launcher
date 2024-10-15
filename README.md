@@ -1,4 +1,4 @@
-# Deprecated: does not work on Ubuntu 24.04 and later. Instead you can use this extension: https://gitlab.com/astrapi-os/shell-extensions/panel-menu 
+### Deprecated: does not work on Ubuntu 24.04 and later. Instead you can use this extension: https://gitlab.com/astrapi-os/shell-extensions/panel-menu 
 
 Launcher Gnome Extension
 ========================
